@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pomodoro-timer/static/css/main.4724776d.chunk.css",
+    "main.js": "/pomodoro-timer/static/js/main.d74b5cbd.chunk.js",
+    "main.js.map": "/pomodoro-timer/static/js/main.d74b5cbd.chunk.js.map",
+    "runtime-main.js": "/pomodoro-timer/static/js/runtime-main.bb870148.js",
+    "runtime-main.js.map": "/pomodoro-timer/static/js/runtime-main.bb870148.js.map",
+    "static/css/2.02920ef3.chunk.css": "/pomodoro-timer/static/css/2.02920ef3.chunk.css",
+    "static/js/2.bb2f3eff.chunk.js": "/pomodoro-timer/static/js/2.bb2f3eff.chunk.js",
+    "static/js/2.bb2f3eff.chunk.js.map": "/pomodoro-timer/static/js/2.bb2f3eff.chunk.js.map",
+    "index.html": "/pomodoro-timer/index.html",
+    "static/css/2.02920ef3.chunk.css.map": "/pomodoro-timer/static/css/2.02920ef3.chunk.css.map",
+    "static/css/main.4724776d.chunk.css.map": "/pomodoro-timer/static/css/main.4724776d.chunk.css.map",
+    "static/js/2.bb2f3eff.chunk.js.LICENSE.txt": "/pomodoro-timer/static/js/2.bb2f3eff.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/pomodoro-timer/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb870148.js",
+    "static/css/2.02920ef3.chunk.css",
+    "static/js/2.bb2f3eff.chunk.js",
+    "static/css/main.4724776d.chunk.css",
+    "static/js/main.d74b5cbd.chunk.js"
+  ]
+}
